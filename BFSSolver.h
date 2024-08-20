@@ -1,5 +1,4 @@
-// Created By 
-// Dipak Bhandare 
+
 #include<bits/stdc++.h>
 #include "Generic_rubics_cube_solver.h"
 
