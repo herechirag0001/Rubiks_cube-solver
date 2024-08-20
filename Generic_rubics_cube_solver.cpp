@@ -1,5 +1,3 @@
-// Created By 
-// Dipak Bhandare 
 
 #include "Generic_rubics_cube_solver.h"
 
